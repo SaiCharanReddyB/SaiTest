@@ -9,7 +9,7 @@ public class Person {
     
     public Person(String name, String address) {
         this.name = name;
-        this.address = address;
+        this.address = address
     }
     
     @Override
