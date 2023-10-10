@@ -5,11 +5,11 @@ public class Person {
 
     // Attributes
     private String name;
-    private String address;
+    private String address
     
     public Person(String name, String address) {
         this.name = name;
-        this.address = address;
+        this.address = address
     }
     
     @Override
